@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# GitHub Profile Finder 🔍
 
-# Run and deploy your AI Studio app
+A simple web application that allows users to search and view GitHub profiles using the GitHub API.
+It displays important details like profile picture, username, bio, repositories, followers, and more.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1-kgSoRd0CAwdlGW9CG2LhL6XAoyYbYIz
+* Search any GitHub user by username
+* Display profile picture and bio
+* Show public repositories
+* Show followers and following count
+* Responsive and user-friendly interface
 
-## Run Locally
+## 🛠️ Built With
 
-**Prerequisites:**  Node.js
+* HTML
+* CSS
+* JavaScript
+* GitHub API
+
+## 📦 Installation
+
+1. Clone the repository
+
+```
+git clone https://github.com/your-username/github-profile-finder.git
+```
+
+2. Open the project folder
+
+```
+cd github-profile-finder
+```
+
+3. Open `index.html` in your browser.
+
+## 💻 Usage
+
+1. Enter a GitHub username in the search box.
+2. Click the **Search** button.
+3. The app will display the user's profile information.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🌐 API Used
+
+GitHub REST API
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+## 👨‍💻 Author
+
+Your Name
+GitHub: https://github.com/your-username
